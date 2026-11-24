@@ -3845,7 +3845,7 @@
       }
     ],
     "title": "f-borgoluceit",
-    "updated_at": 1795431653830
+    "updated_at": 1795518270317
   },
   {
     "id": 1761642195688,
@@ -6228,19 +6228,24 @@
     "id": 1795435082658,
     "items": [
       {
-        "id": 1795435082658,
-        "title": "Impostazioni generali ‹ lc-tesi-engineering — WordPress",
-        "url": "http://lc-tesi-engineering.local/wp-admin/options-general.php"
+        "active": true,
+        "id": 1795530702800,
+        "title": "Board | Te.si Engineering - ProTask",
+        "url": "https://worktask.bludelego.it/p/board/te.si-engineering"
       },
       {
-        "active": true,
-        "id": 1795435082659,
-        "title": "lc-tesi-engineering",
-        "url": "http://lc-tesi-engineering.local/"
+        "id": 1795530702801,
+        "title": "TE.S.I. S.r.l. – Figma",
+        "url": "https://www.figma.com/design/Hq79LhUwESJHsUUrsNwsOo/TE.S.I.-S.r.l.?node-id=22-141&p=f&t=9cI4Y0hnoSEHMKxh-0"
+      },
+      {
+        "id": 1795530702802,
+        "title": "TE.S.I. S.r.l. (Copy) – Figma",
+        "url": "https://www.figma.com/design/drwFmxQCrqPRoDsXESFUqV/TE.S.I.-S.r.l.--Copy-?node-id=22-141&p=f&m=dev"
       }
     ],
     "title": "f-tesi-engineering",
-    "updated_at": 1795435082658
+    "updated_at": 1795530704291
   },
   {
     "id": 1795435129173,
@@ -6263,6 +6268,6 @@
       }
     ],
     "title": "b-tesi-engineering",
-    "updated_at": 1795435129173
+    "updated_at": 1795512517742
   }
 ]
