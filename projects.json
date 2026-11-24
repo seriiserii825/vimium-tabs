@@ -6228,24 +6228,19 @@
     "id": 1795435082658,
     "items": [
       {
+        "id": 1795538334462,
+        "title": "Modifica pagina “Home” ‹ Tesi Engineering — WordPress",
+        "url": "http://lc-tesi-engineering.local/wp-admin/post.php?post=48&action=edit"
+      },
+      {
         "active": true,
-        "id": 1795530702800,
-        "title": "Board | Te.si Engineering - ProTask",
-        "url": "https://worktask.bludelego.it/p/board/te.si-engineering"
-      },
-      {
-        "id": 1795530702801,
-        "title": "TE.S.I. S.r.l. – Figma",
-        "url": "https://www.figma.com/design/Hq79LhUwESJHsUUrsNwsOo/TE.S.I.-S.r.l.?node-id=22-141&p=f&t=9cI4Y0hnoSEHMKxh-0"
-      },
-      {
-        "id": 1795530702802,
-        "title": "TE.S.I. S.r.l. (Copy) – Figma",
-        "url": "https://www.figma.com/design/drwFmxQCrqPRoDsXESFUqV/TE.S.I.-S.r.l.--Copy-?node-id=22-141&p=f&m=dev"
+        "id": 1795538334463,
+        "title": "TE.S.I. | Consulenza tecnica e realizzazione di macchine speciali",
+        "url": "http://lc-tesi-engineering.local/"
       }
     ],
     "title": "f-tesi-engineering",
-    "updated_at": 1795530704291
+    "updated_at": 1795538335554
   },
   {
     "id": 1795435129173,
