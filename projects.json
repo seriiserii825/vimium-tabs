@@ -3845,7 +3845,7 @@
       }
     ],
     "title": "f-borgoluceit",
-    "updated_at": 1795518270317
+    "updated_at": 1795593656376
   },
   {
     "id": 1761642195688,
@@ -6240,7 +6240,7 @@
       }
     ],
     "title": "f-tesi-engineering",
-    "updated_at": 1795538335554
+    "updated_at": 1795594486316
   },
   {
     "id": 1795435129173,
@@ -6252,17 +6252,17 @@
         "url": "https://worktask.bludelego.it/p/board/te.si-engineering"
       },
       {
-        "id": 1795435129174,
+        "id": 1795594587372,
         "title": "TE.S.I. S.r.l. – Figma",
-        "url": "https://www.figma.com/design/Hq79LhUwESJHsUUrsNwsOo/TE.S.I.-S.r.l.?node-id=0-1&p=f&t=zhOo1ZNCqZwj5vhs-0"
+        "url": "https://www.figma.com/design/Hq79LhUwESJHsUUrsNwsOo/TE.S.I.-S.r.l.?node-id=22-141&p=f&t=bunPFhZ0mzM13EVe-0"
       },
       {
-        "id": 1795435129175,
+        "id": 1795594587373,
         "title": "TE.S.I. S.r.l. (Copy) – Figma",
-        "url": "https://www.figma.com/design/drwFmxQCrqPRoDsXESFUqV/TE.S.I.-S.r.l.--Copy-?node-id=0-1&p=f&m=dev"
+        "url": "https://www.figma.com/design/drwFmxQCrqPRoDsXESFUqV/TE.S.I.-S.r.l.--Copy-?node-id=22-141&p=f&m=dev"
       }
     ],
     "title": "b-tesi-engineering",
-    "updated_at": 1795512517742
+    "updated_at": 1795594588326
   }
 ]
